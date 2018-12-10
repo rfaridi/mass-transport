@@ -33,8 +33,6 @@ source("../work_flow/RFILES/tab_serial_ref.R")
 ```
 
 
-
-
 # Introduction 
 
 In the month of July, an unique movement started in the streets of Dhaka, Bangladesh. School and high school kids came to streets protesting death of two of their friends. These two kids died in the race of two buses to collect passengers and thus increase the day revenue. This kids actually ruled the city for a few days. 
