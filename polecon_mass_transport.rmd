@@ -19,7 +19,7 @@ date: "`r format(Sys.time(), '%B %d, %Y')`"
 geometry: margin=1in
 fontfamily: mathpazo
 fontsize: 11pt
-bibliography: /home/rushad/Dropbox/Docs/Research/References/masterRefs.bib
+bibliography: ../References/masterRefs.bib
 biblio-style: authoryear
 csl: ../CSL/chicago_author_date.csl
 ---
