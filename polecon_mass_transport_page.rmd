@@ -7,13 +7,10 @@ author:
   affiliation: University of Dhaka
 abstract: "This article will analyze the dynamics and structure of mass transportation in a South Asian mega city.It is usually expected that competition will bring about better service and quality in a market. In transportation sector in Bangladesh it seemed that competion brought about the worst possible outcome for transportation. This paper investigates the reasons behind this phenomenon. We found that this is actually a classic case of market failure since mass transportation is essentially a public good with externality effect. Therefore, market equilibrium resulted into socially inefficient outcome."
 keywords: "mass transportation, South Asia, Political economy"
-date: "`r format(Sys.time(), '%B %d, %Y')`"
-geometry: margin=1in
 bibliography: ../References/masterRefs.bib
 biblio-style: authoryear
 csl: ../CSL/chicago_author_date.csl
 ---
-
 
 ```{r setup, echo = FALSE }
 library(knitr)
@@ -27,10 +24,9 @@ source("../work_flow/RFILES/tab_serial_ref.R")
 
 In the month of July, an unique movement started in the streets of Dhaka, Bangladesh. This article will focus on the dynamics of employment structure in a South Asian mega city. In July, 2018  a bus killed two school children in a race to collect more passengers. It brought down protests throughout the country and particularly in Dhaka, the school students took over the control of the streets replacing the traffic surgeons. It created a great political upheaval in Bangladesh.  School and high school kids came to streets protesting death of two of their friends. These two kids died in the race of two buses to collect passengers and thus increase the day revenue. This kids actually ruled the city for a few days. 
 
-It is usually expected that competition will bring about better service and quality in a market. In transportation sector in Bangladesh it seemed that competion brought about the worst possible outcome for transportation. This paper investigates the reasons behind this phenomenon. We found that this is actually a classic case of market failure since mass transportation is essentially a public good with externality effect. Therefore, market equilibrium resulted into socially inefficient outcome. A related  objective of this paper is to look into the economic incentive of Bus operators that lead to this stiff aggressively competitive behaviors which led to the tragic incident. We will look into the current employment structure which is actually determined by the whole mass transportation industry.
+It is usually expected that competition will bring about better service and quality in a market. In transportation sector in Bangladesh it seemed that competition brought about the worst possible outcome for transportation. This paper investigates the reasons behind this phenomenon. We found that this is actually a classic case of market failure since mass transportation is essentially a public good with externality effect. Therefore, market equilibrium resulted into socially inefficient outcome. A related  objective of this paper is to look into the economic incentive of Bus operators that lead to this stiff aggressively competitive behaviors which led to the tragic incident. We will look into the current employment structure which is actually determined by the whole mass transportation industry.
 
 ## Current state 
-
 
 According to @anwar_palo_words_2018, BRTA data shows there are 3.30 million vehicles in the country. In the same vein, according to  BRTC, there are 35,000 buses and mini buses, half of which operate outside Dhaka.According to Bangladesh Road Transport Authority (BRTA), a total of 7,937 bus and mini buses ply along 246 routes in Dhaka and its adjacent areas.
 
@@ -51,6 +47,7 @@ Due to unplanned and unnecessary routes and innumerable owners, the buses enter 
 About 255 bus operators ply in the streets of Dhaka with around 8000 buses. There are around 129 routes on which this buses runs through. There are no planned structure on which bus operator will maintain which route, there are no time schedule. Unbriddled competition has led to total chaos in this sector. This immensely affected the behaviour of drivers who are at the heart of maintaining safety on the road. The channel through which this drivers are affected is mainly their main source of livelihood, the salary earned from driving these buses. It is how their earning is determined will affect current state. Therefore the main focus of our discussion is the remuneration packages that is offered to these drivers. 
 
 ## Existing employment structures
+
 Almost all of the bus operators in developing countries main revenue collection comes from fare. Therefore, a bus operation is considered successful only if it generates enough revenue from fare. But it is not always possible to monitor the bus crew. There is a strong possiblity that they won't report all the revenue from bus. There may be also false issuance of tickets thereby defrauding the operators.
 
 To counter the leakage of salary, the bus owners/operators offer drivers a share of fare revenue. it becomes salary or part of the salary.  it creates incentive for the drivers for to report all the revenue but it falls short of solving the revenue leakage. monetary benefit of the driver is directly related to number of passengers a bus can have.  in the absence of proper law enforcement and service monitoring, this will lead to aggressive driving, over-speeding and leads to uncomfortable, unreliable  and unsafe travel.
